@@ -1,0 +1,19 @@
+{
+  "name": "is-login-test",
+  "version": "0.0.1",
+  "keywords": [
+    "login",
+    "express"
+  ],
+  "description": "use to judge user login or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xianyulaodi/is-login-test.git"
+  },
+  "author": "xianyulaodi",
+  "license": "MIT"
+}
